@@ -6,7 +6,7 @@ Before getting started with this project, confirm that Jupyter Notebook is prope
 
 Once set up is complete, download our specific .ipynb file version into any directory that you prefer using 'git clone https://github.com/hameedatimson/MachineLearning-Crime.git. Access this folder through Terminal via its directory pathway.
 
-Begin running notebooks by opening Terminal and calling up Jupyter and reading through the corresponding website displayed via browser upon startup confirmation (use the Jupyter starting prompt entered into Terminal as the designated link, "jupyter notebook uk_crime_trends_2023.ipynb").
+Begin running notebooks by opening Terminal and calling up Jupyter and reading through the corresponding website displayed via browser upon startup confirmation (use the Jupyter starting prompt entered into Terminal as the designated link, "jupyter notebook Crimes in UK 2023-finale.ipynb").
 
 On said browser platform, use the provided gateway page navigation tool or manually make a way to access the desired project folder in order to select and open Jupyter Notebook as saved within the file destination.
 
